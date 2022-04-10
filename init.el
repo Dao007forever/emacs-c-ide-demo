@@ -24,7 +24,7 @@
 (require 'setup-cedet)
 (require 'setup-editing)
 
-
+(global-ede-mode 0)
 
 ;; function-args
 ;; (require 'function-args)
